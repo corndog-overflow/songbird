@@ -4,8 +4,6 @@
 
 **Songbird** is a student project from the Spring 2025 Deep Learning course. It explores deep learning-based symbolic music generation, focusing on expressive jazz and blues using autoregressive Transformer models. The model takes MIDI-based note sequences and produces stylistically rich, polyphonic jazz compositions. We also incorporated reinforcement learning (REINFORCE) to improve musicality.
 
-  ![image](https://github.com/user-attachments/assets/8a0f0d6f-bc56-4fc1-a34f-37347dde5ccf)
-
 ## Key Features
 
 * Autoregressive Transformer-based architecture
